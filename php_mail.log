@@ -1,0 +1,22 @@
+[25-May-2018 01:07:31 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:10]: To: na1464@gmail.com -- Headers:  -- Subject: email testing
+[25-May-2018 01:09:22 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:10]: To: sampan1983@gmail.com -- Headers:  -- Subject: email testing
+[25-May-2018 01:10:43 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:10]: To: sampan1983@gmail.com -- Headers:  -- Subject: email testing
+[25-May-2018 01:15:26 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:13]: To: sampan1983@gmail.com -- Headers: From: webmaster@example.com  Reply-To: webmaster@example.com  X-Mailer: PHP/7.1.17 -- Subject: email testing
+[25-May-2018 01:15:56 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:13]: To: sampan1983@gmail.com -- Headers: From: nads1464@gmail.com  Reply-To: na1464@gmail.com  X-Mailer: PHP/7.1.17 -- Subject: email testing
+[25-May-2018 01:44:06 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:13]: To: sampan1983@gmail.com -- Headers: From: nads1464@gmail.com  Reply-To: na1464@gmail.com  X-Mailer: PHP/7.1.17 -- Subject: email testing
+[25-May-2018 02:08:19 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: sampan1983@gmail.com -- Headers: From: $from  Reply-To: $add_reply  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 04:58:16 CST6CDT] mail() on [/home/texting8/public_html/mail_example.php:13]: To: sampan1983@gmail.com -- Headers: From: nads1464@gmail.com  Reply-To: na1464@gmail.com  X-Mailer: PHP/7.1.17 -- Subject: email testing
+[25-May-2018 13:05:14 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: david66283@yahoo.com -- Headers: From: $from  Reply-To: $add_reply  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 13:07:31 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: david66283@yahoo.com -- Headers: From: $from  Reply-To: $add_reply  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 13:09:20 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: sampan1983@gmail.com -- Headers: From: $from  Reply-To: $add_reply  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 13:12:14 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers: From: $from  Reply-To: $add_reply  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 13:14:07 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers: From:  Reply-To:  X-Mailer: PHP/7.1.17 -- Subject: texting84.com Notification
+[25-May-2018 13:21:01 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: sampan1983@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 13:21:04 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 13:26:03 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: david66283@yahoo.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 23:15:51 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: sampan1983@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 23:19:16 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 23:23:37 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 23:24:13 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:25]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[25-May-2018 23:25:43 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:32]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
+[29-May-2018 01:02:16 CST6CDT] mail() on [/home/texting8/public_html/get_single_email.php:32]: To: na1464@gmail.com -- Headers:  -- Subject: texting84.com Notification
