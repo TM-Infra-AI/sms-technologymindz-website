@@ -1,0 +1,83 @@
+[23-May-2018 13:54:04 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 01:04:16 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 89
+[24-May-2018 01:07:33 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 91
+[24-May-2018 01:08:27 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 91
+[24-May-2018 01:13:04 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 99
+[24-May-2018 01:24:11 CST6CDT] PHP Notice:  Undefined index: clients_name in /home/texting8/public_html/get_bulk_sms.php on line 84
+[24-May-2018 01:24:11 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 99
+[24-May-2018 01:25:05 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 99
+[24-May-2018 01:49:46 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 02:39:09 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 02:45:01 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 02:45:45 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 02:48:10 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Plivo\RestAPI' not found in /home/texting8/public_html/get_single_msg.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/get_single_msg.php on line 96
+[24-May-2018 03:01:34 CST6CDT] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/texting8/public_html/cron_send.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/cron_send.php on line 14
+[25-May-2018 01:13:59 CST6CDT] PHP Parse error:  syntax error, unexpected ''X-Mailer'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/texting8/public_html/mail_example.php on line 12
+[25-May-2018 12:13:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/texting8/public_html/get_bulk_sms.php on line 404
+[25-May-2018 12:36:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tr_replace() in /home/texting8/public_html/receive_plivo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/receive_plivo.php on line 8
+[25-May-2018 12:50:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tr_replace() in /home/texting8/public_html/receive_plivo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/receive_plivo.php on line 8
+[25-May-2018 12:55:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function tr_replace() in /home/texting8/public_html/receive_plivo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/receive_plivo.php on line 8
+[25-May-2018 12:55:52 CST6CDT] Message received - From: 12093127983, To: 19166750234, Text: hello plivo sms testing for receiving
+[25-May-2018 13:26:35 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'RestAPI' not found in /home/texting8/public_html/cron_send.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/texting8/public_html/cron_send.php on line 99
+[25-May-2018 13:27:11 CST6CDT] PHP Notice:  Undefined variable: num in /home/texting8/public_html/cron_send.php on line 139
+[25-May-2018 13:29:58 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:34:34 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined index: A in /home/texting8/public_html/get_bulk_mail.php on line 317
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined index: A in /home/texting8/public_html/get_bulk_mail.php on line 317
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined index: A in /home/texting8/public_html/get_bulk_mail.php on line 317
+[25-May-2018 13:38:36 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:45:07 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:46:56 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 13:49:44 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[25-May-2018 15:34:47 CST6CDT] Message received - From: 19139098270, To: 19166750234, Text: Got the another Plivo sms
+[25-May-2018 16:49:33 CST6CDT] Message received - From: 12403936098, To: 19166750234, Text: So dien thoai nay KHONG duoc goi quang cao
+[25-May-2018 23:08:33 CST6CDT] PHP Notice:  Undefined variable: group_name in /home/texting8/public_html/get_bulk_mail.php on line 34
+[25-May-2018 23:08:33 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_mail.php on line 51
+[25-May-2018 23:15:10 CST6CDT] PHP Notice:  Undefined variable: twilio_number in /home/texting8/public_html/get_bulk_mail.php on line 329
+[28-May-2018 01:18:00 CST6CDT] PHP Notice:  Undefined index: clients_name in /home/texting8/public_html/get_bulk_sms.php on line 105
+[28-May-2018 01:18:00 CST6CDT] PHP Notice:  Undefined variable: sql1 in /home/texting8/public_html/get_bulk_sms.php on line 141
+[28-May-2018 06:36:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/texting8/public_html/sent_messages.php on line 100
+[28-May-2018 12:09:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'time' (T_STRING) in /home/texting8/public_html/get_bulk_sms.php on line 21
+[28-May-2018 12:09:56 CST6CDT] PHP Parse error:  syntax error, unexpected '%' in /home/texting8/public_html/get_bulk_sms.php on line 21
+[28-May-2018 12:16:22 CST6CDT] PHP Notice:  Use of undefined constant scheduled_time - assumed 'scheduled_time' in /home/texting8/public_html/get_bulk_sms.php on line 16
+[28-May-2018 12:16:22 CST6CDT] PHP Notice:  Undefined variable: number in /home/texting8/public_html/get_bulk_sms.php on line 132
+[28-May-2018 12:42:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/texting8/public_html/sent_messages.php on line 100
+[28-May-2018 12:47:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/texting8/public_html/sent_messages.php on line 122
+[29-May-2018 00:27:31 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/texting8/public_html/sent_messages.php on line 147
+[29-May-2018 00:40:01 CST6CDT] PHP Notice:  Use of undefined constant scheduled_time - assumed 'scheduled_time' in /home/texting8/public_html/get_bulk_sms.php on line 16
+[29-May-2018 00:43:10 CST6CDT] PHP Notice:  Use of undefined constant scheduled_time - assumed 'scheduled_time' in /home/texting8/public_html/get_bulk_sms.php on line 16
