@@ -1,0 +1,47 @@
+<?php
+
+/**
+
+ * @Author: Nadim Ahmad
+
+ * @Date:   2016-02-15 14:05:55
+
+ * @Last Modified by:    Nadim Ahmad
+
+ * @Last Modified time: 2017-12-20
+
+ */
+
+ob_start();
+
+session_start();
+
+include("connection.php");
+
+$group_name = $_POST['group_name'];
+
+$file=$_POST['file'];
+
+$check_dup = mysqli_query($con,"select * from tapp_groups where group_name  = '".$group_name."'");
+if(mysqli_num_rows($check_dup)<1)
+{
+$sql=mysqli_query($con,"insert into tapp_groups (group_name,number) values('".$group_name."','".$file."')");
+if($sql)
+{
+	$_SESSION['flash_message'] = 'Contact Added Successfully.';
+}
+else
+{
+$_SESSION['failure_message'] = 'Sorry! Something went wrong.';	
+}
+}
+else{
+	$_SESSION['failure_message'] = $mobile.' is already exists'; 
+}
+header("Location:clients.php");
+
+
+
+ob_flush();
+
+?>
